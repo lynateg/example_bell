@@ -1,0 +1,7 @@
+# Intellij
+.idea/
+*.iws
+.idea/replstate.xml
+temp/
+.idea/**/dataSources/
+*.zip
